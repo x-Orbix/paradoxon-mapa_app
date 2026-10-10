@@ -1,0 +1,1 @@
+[{"type":"line","data":{"key":"pl3xmap_worldborder","points":[{"x":-50000,"z":-50000},{"x":50000,"z":-50000},{"x":50000,"z":50000},{"x":-50000,"z":50000},{"x":-50000,"z":-50000}]},"options":{"stroke":{"weight":3,"color":-65536},"tooltip":{"content":"World Border","direction":2,"sticky":true}}}]
