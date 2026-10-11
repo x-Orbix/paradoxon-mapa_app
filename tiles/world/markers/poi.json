@@ -1,1 +1,50 @@
-[{"type":"icon","data":{"key":"poi_zakladna","point":{"x":100,"z":-250},"image":"spawn","size":{"x":16.0,"z":16.0}},"options":{"tooltip":{"content":"Základna","direction":2}}},{"type":"icon","data":{"key":"poi_farma","point":{"x":-420,"z":310},"image":"spawn","size":{"x":16.0,"z":16.0}},"options":{"tooltip":{"content":"Farma","direction":2}}}]
+{
+  "key": "mista",
+  "label": "Důležitá místa",
+  "showControls": true,
+  "defaultHidden": false,
+  "markers": [
+    {
+      "type": "icon",
+      "data": {
+        "key": "poi_zakladna",
+        "point": {
+          "x": 100,
+          "z": -250
+        },
+        "image": "spawn",
+        "size": {
+          "x": 16,
+          "z": 16
+        }
+      },
+      "options": {
+        "tooltip": {
+          "content": "Základna",
+          "direction": "top"
+        }
+      }
+    },
+    {
+      "type": "icon",
+      "data": {
+        "key": "poi_farma",
+        "point": {
+          "x": -420,
+          "z": 310
+        },
+        "image": "spawn",
+        "size": {
+          "x": 16,
+          "z": 16
+        }
+      },
+      "options": {
+        "tooltip": {
+          "content": "Farma",
+          "direction": "top"
+        }
+      }
+    }
+  ]
+}
